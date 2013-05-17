@@ -1,0 +1,217 @@
+Game statistics for Yavalath (human vs computer)
+----------------------------
+Games and moves (computer moves with number of static evaluations)  are enlisted,
+also with number of static evaluations. Human is player A (starts first) .
+
+
+
+
+Game A  (Depth = 3)
+-------------------	
+E3  (START - HUMAN)
+A1 - Killer(on): 23342, Killer(off): 23049
+E6 
+B4 - Killer(on): 17245, Killer(off): 17755
+E4
+E5 - Killer(on): 14422, Killer(off): 14788
+C3
+E2 - Killer(on): 12367, Killer(off): 17333
+B3 
+D3 - Killer(on): 25180, Killer(off): 25974
+C4
+D5 - Killer(on): 9547, Killer(off): 19148
+c6
+a2 - Killer(on): 11195, Killer(off): 11637
+C5 (HUMAN WON)
+
+Search disagree: 1
+Static evaluations (Killer ON): 113298
+Static evaluations (Killer OFF): 129684
+
+
+Game B  (Depth = 3)
+-------------------	
+C4
+A1 - Killer(on): 35432, Killer(off): 35134
+E5 
+A4 - Killer(on): 22757, Killer(off): 23310
+D4
+A2 - Killer(on): 19961, Killer(off): 19960
+A3
+B2 - Killer(on): 16350, Killer(off): 16294
+F3 
+E4 - Killer(on): 10668, Killer(off): 11415
+F6	
+D2 - Killer(on): 9162, Killer(off): 12064
+C2
+B5 - Killer(on): 10294, Killer(off): 14758
+E6
+D5 - Killer(on): 11412, Killer(off): 11827
+F4
+F5 - Killer(on): 7504, Killer(off): 8595
+C5
+A5 - Killer(on): 6085, Killer(off): 6133
+H2
+C2 - Killer(on): 4222, Killer(off): 4293
+G3  (HUMAN WON)
+
+
+Search disagree: 3
+Static evaluations (Killer ON): 153847
+Static evaluations (Killer OFF): 163783
+
+
+
+
+Game c  (Depth = 3)
+-------------------
+D2
+A1 - Killer(on): 22921, Killer(off): 22898
+G3
+A4 - Killer(on): 11515, Killer(off): 16907
+D5
+A2 - Killer(on): 10562, Killer(off): 21834
+A3
+D4 - Killer(on): 10263, Killer(off): 37347
+F3
+E3 - Killer(on): 12995, Killer(off): 16993
+E5
+F4 - Killer(on): 13777, Killer(off): 13570
+E7
+B2 - Killer(on): 13333, Killer(off): 12974
+c3
+b4 - Killer(on): 10354, Killer(off): 10354
+c4
+b1 - Killer(on): 8803, Killer(off): 8761
+b3 (COMPUTER WON)
+
+Search disagree: 0
+Static evaluations (Killer ON): 114523
+Static evaluations (Killer OFF): 161638
+
+==========================
+
+Game D  (Depth = 3)
+-------------------
+B2 
+B3 - Killer(on): 368440, Killer(off): 471103
+c3
+e5 - Killer(on): 299310, Killer(off): 606452
+c6
+e8 - Killer(on): 252533, Killer(off): 665497
+e6
+b5 - Killer(on): 206647, Killer(off): 428939
+c5
+c4 - Killer(on): 124881, Killer(off): 203560
+d5
+b6 - Killer(on): 219767, Killer(off): 409979
+b4
+f3 - Killer(on): 164652, Killer(off): 553140
+e4
+d6 - Killer(on): 267977, Killer(off): 390415
+g6
+f6 - Killer(on): 71369, Killer(off): 488412
+g4 
+f3 - Killer(on): 187528, Killer(off): 273216
+f5 (COMPUTER WON)
+
+Search disagree: 1
+Static evaluations (Killer ON): 2163104
+Static evaluations (Killer OFF): 4490713
+
+
+Game E  (Depth = 4)
+-------------------
+a1
+b2 - Killer(on): 656273, Killer(off): 695468
+a4
+b5 - Killer(on): 220066, Killer(off): 299918
+d4
+b4 - Killer(on): 221257, Killer(off): 297027
+b3
+e2 - Killer(on): 257319, Killer(off): 296927
+e6
+e5 - Killer(on): 207447, Killer(off): 253501
+d5
+c4 - Killer(on): 111142, Killer(off): 110843
+d2
+d3 - Killer(on): 98148, Killer(off): 102913
+d7
+d6 - Killer(on): 86781, Killer(off): 93456
+f3
+e3 - Killer(on): 142464, Killer(off): 148416
+e4 (COMPUTER WON)
+
+Search disagree: 1
+Static evaluations (Killer ON): 2000897
+Static evaluations (Killer OFF): 2298469
+
+Game F  (Depth = 4)
+-------------------
+e2
+b3 - Killer(on): 301466, Killer(off): 455902
+e4
+e3 - Killer(on): 381788, Killer(off): 539670
+c3
+e6 - Killer(on): 224622, Killer(off): 497370
+d5 
+e5 - Killer(on): 310866, Killer(off): 432187
+b4
+c4 - Killer(on): 227976, Killer(off): 518318
+d2
+d3 - Killer(on): 175612, Killer(off): 337055
+h2
+g1 - Killer(on): 229115, Killer(off): 344028
+f2
+g2 - Killer(on): 87280, Killer(off): 328432
+b2
+c2 - Killer(on): 74406, Killer(off): 109585
+f5
+f3 - Killer(on): 98742, Killer(off): 384412
+h5
+g4 - Killer(on): 153274, Killer(off): 283721
+g3
+h3 - Killer(on): 146633, Killer(off): 248816
+f8
+f7 - Killer(on): 108199, Killer(off): 216298
+i5 
+g5 - Killer(on): 29563, Killer(off): 248029
+i3
+c5 - Killer(on): 86139, Killer(off): 116934
+e7
+d7 - Killer(on): 66154, Killer(off): 92809
+i2
+i4 - Killer(on): 14461, Killer(off): 190232
+g6	
+a4 - Killer(on): 25144, Killer(off): 36561
+b5
+b6 - Killer(on): 18982, Killer(off): 27800
+d6
+c1 - Killer(on): 13099, Killer(off): 20959
+e1
+a5 - Killer(on): 8689, Killer(off): 13927
+a2
+d1 - Killer(on): 4963, Killer(off): 7557
+a3
+d8 - Killer(on): 3352, Killer(off): 4726
+c7 
+e9 - Killer(on): 1955, Killer(off): 2446
+c6
+f1 - Killer(on): 1101, Killer(off): 1334
+b1
+f4 - Killer(on): 675, Killer(off): 817
+h4 
+f6 - Killer(on): 227, Killer(off): 288
+h1 
+g7 - Killer(on): 90, Killer(off): 82
+e8
+a1 - Killer(on): 12, Killer(off): 12
+i1 (COMPUTER WON)
+
+Search disagree: 6
+Static evaluations (Killer ON): 2794585
+Static evaluations (Killer OFF): 5460307
+
+
+
+
